@@ -1,4 +1,4 @@
-# 23 Laws of Commitment-Based Economics
+# 23 Laws of the Theory of Quantified Commitments
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
