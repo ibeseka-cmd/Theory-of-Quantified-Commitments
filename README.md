@@ -97,7 +97,7 @@ You are free to share and adapt for non-commercial purposes, with attribution an
 ## Citation
 
 ```
-@misc{ndongore2025,
+@misc{Otto B. Isong 2025,
   title = {The 23 Laws of Quantified Commitments},
   author = {Otto B. Isong},
   year = {2025},
